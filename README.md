@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Muhammed Hagras</h1>
+<h1 align="left">Hey there 👋, I'm Muhammed Hagras</h1>
 
 
 - Software Engineer
