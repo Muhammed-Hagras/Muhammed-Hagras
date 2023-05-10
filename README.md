@@ -1,10 +1,13 @@
 <h1 align="left">Hey there 👋, I'm Muhammed Hagras</h1>
 
 
-- Software Engineer
-- Frontend Developer
+- I’m a Junior Frontend Developer trying to be a good software engineer.
+- I’m passionate with problem solving.
+- 🔭 I’m currently working on side projects to acquire some experience.
+- 🌱 I’m currently **TypeScript, NextJs,NodeJs**.
+- 💬 Ask me about Software Development.
+- ⚡ Fun fact: My face does not represent my age!
 
-- 🌱 I’m currently learning **TypeScript, NextJs,NodeJs Problem Solving, Data Structures, and Algorithms**
 
 -  📄 Here is my:
     - [Resume](https://drive.google.com/file/d/1Reakqq7zpcCJpskKuzQvi8g0h0D69shv/view)
