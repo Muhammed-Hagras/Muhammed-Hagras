@@ -4,7 +4,7 @@
 - I’m a Junior Frontend Developer trying to be a good software engineer.
 - I’m passionate with problem solving.
 - 🔭 I’m currently working on side projects to acquire some experience.
-- 🌱 I’m currently **React, Redux, TypeScript, NextJs, NodeJs, ExpressJS, Mongodb**.
+- 🌱 I’m currently learning **React, Redux, TypeScript, NextJs, NodeJs, ExpressJS, Mongodb**.
 - 💬 Ask me about Software Development.
 - ⚡ Fun fact: My face does not represent my age!
 
