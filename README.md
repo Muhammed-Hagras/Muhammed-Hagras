@@ -10,7 +10,7 @@
 
 
 -  📄 Here is my:
-    - [Resume](https://drive.google.com/file/d/1Reakqq7zpcCJpskKuzQvi8g0h0D69shv/view)
+    - [Resume](https://drive.google.com/file/d/1kA-0HqLNhBy-z65FGSc79Rqsu-hOT7dc/view)
     - [Portfolio](https://mohagras.netlify.app/)
 ----
 
